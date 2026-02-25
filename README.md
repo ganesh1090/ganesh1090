@@ -19,3 +19,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/ganesh1090/Authentication-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganesh1090&repo=Authentication-API&theme=dracula&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/ganesh1090/Online-Food-Ordering-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganesh1090&repo=Online-Food-Ordering-System&theme=dracula&hide_border=true" />
+  </a>
+</p>
